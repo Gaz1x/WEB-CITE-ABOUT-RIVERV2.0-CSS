@@ -91,6 +91,7 @@ footer{
 }
 
 .head-pictures .right-small{
+    display: block;
     width: 30%;
     height: 33.33%;
 }
@@ -204,3 +205,4 @@ footer{
 .summary-text a{
     color: grey;
 }
+
