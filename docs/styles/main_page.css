@@ -77,6 +77,7 @@ footer{
 
 /* ВЕРХНИЙ БЛОК ИЗОБРАЖЕНИЙ */
 .head-pictures{
+    display: block;
     margin: 20px auto;
     width: 85%;
     height: 400px;
@@ -205,4 +206,5 @@ footer{
 .summary-text a{
     color: grey;
 }
+
 
